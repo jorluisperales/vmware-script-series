@@ -1,4 +1,4 @@
-# Script to obtain the Physical disks placement by naa on ESXi hosts
+# Script to obtain the placement of the physical disk by naa on ESXi hosts
 # Author: Jorluis Perales, VxRail TSE 2 @ Dell EMC
 # Version 1.0
 #
