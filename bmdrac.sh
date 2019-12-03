@@ -1,6 +1,6 @@
 #!/bin/sh
 # Script to configure BMC/iDRAC's IP
-# Author: Jorluis Perales, VxRail TSE 2 @ Dell EMC
+# Author: Jorluis Perales, VxRail SST @ Dell EMC
 # Version 1.0
 #
 # Do not change anything below this line
