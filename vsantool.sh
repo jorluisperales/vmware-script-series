@@ -12,7 +12,7 @@ do
 echo "
 
 +------------------------------------------------------+
-|                         VSAN                         |
+|                         vsantool                     |
 +======================================================+
 | 1) VSAN Cluster State                                |
 | 2) Validate if the vSAN is communicating with other  |
